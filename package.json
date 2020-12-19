@@ -1,0 +1,16 @@
+{
+	"name": "vanilla-nodejs-rest-api",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"nodemon": "^2.0.6"
+	},
+	"dependencies": {
+		"uuid": "^8.3.2"
+	},
+	"scripts": {
+		"start": "node nodeserver.js",
+		"dev": "nodemon nodeserver.js"
+	}
+}

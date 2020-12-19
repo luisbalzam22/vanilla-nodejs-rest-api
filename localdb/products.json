@@ -1,0 +1,26 @@
+[
+	{
+		"id": "01",
+		"name": "PSX1",
+		"description": "PLaystation 1",
+		"price": "1000.00"
+	},
+	{
+		"id": "02",
+		"name": "PS2",
+		"description": "PLaystation 2",
+		"price": "100.00"
+	},
+	{
+		"id": "03",
+		"name": "PS3",
+		"description": "PLaystation 3",
+		"price": "10.00"
+	},
+	{
+		"id": "d67e14d3-166d-4cbe-b6ec-fee82f635c2f",
+		"name": "PS4 Ultra",
+		"description": "Play Station 4 Ultra",
+		"price": "1.99"
+	}
+]
